@@ -1,16 +1,88 @@
-# React + Vite
+# ABTalks – 60 Day Coding Challenge
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 About the Project
 
-Currently, two official plugins are available:
+ABTalks is a 60-day coding challenge platform designed to help students build consistently, share their progress publicly, and create a strong proof of work.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The platform encourages students to:
 
-## React Compiler
+- Build something every day
+- Commit their work to GitHub
+- Share their progress on LinkedIn
+- Maintain a public coding streak
+- Track consistency and community progress
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🎯 Problem
 
-## Expanding the ESLint configuration
+Many students learn coding but struggle to stay consistent and demonstrate their skills to recruiters.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ABTalks solves this by turning daily learning into visible proof of work through GitHub commits, LinkedIn posts, streaks, and community rankings.
+
+## ✨ Key Features
+
+- 🔥 60-day coding challenge
+- 💻 Daily build and GitHub proof
+- 💼 LinkedIn progress sharing
+- 📊 Coding streak and progress tracking
+- 🏆 Community leaderboard
+- 🔐 Login and signup functionality
+- 👤 User name displayed after login
+- 📱 Responsive design
+- ✨ Interactive buttons and hover effects
+- 🚀 Deployed using Vercel
+
+## 🎨 Redesign Highlights
+
+The ABTalks platform was redesigned with a modern dark and purple visual system focused on consistency and public proof of work.
+
+### Main improvements
+
+- Clearer hero section and call-to-action
+- Improved challenge presentation
+- Dedicated progress/streak section
+- Redesigned leaderboard
+- Better login and signup experience
+- Responsive mobile layout
+- Improved navigation and interactions
+
+## 🛠️ Tech Stack
+
+- React
+- Vite
+- JavaScript
+- CSS
+- Git & GitHub
+- Vercel
+
+## 📸 Screenshots
+
+### Homepage
+
+![ABTalks Homepage](screenshots/homepage-desktop.png)
+
+### Challenge Section
+
+![Challenge Section](screenshots/challenge-section.png)
+
+### Leaderboard
+
+![Leaderboard](screenshots/leaderboard.png)
+
+### Mobile View
+
+![Mobile View](screenshots/mobile-view.png)
+
+## 🌐 Live Demo
+
+[View the Live ABTalks Website](PASTE_YOUR_VERCEL_URL_HERE)
+
+## 📂 Repository
+
+[View the GitHub Repository](https://github.com/dhanuachar774/abtalks-redesign)
+
+## ▶️ Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/dhanuachar774/abtalks-redesign.git
